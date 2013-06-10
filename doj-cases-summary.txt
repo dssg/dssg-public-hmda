@@ -110,8 +110,35 @@ detail:
 name: US vs. Citizens Republic Bancorp, Inc. and Citizens Bank (E.D. Mich.)
 date: 5-5-2011
 why:
-* redlining; CRBC and CB did not provide equal service to african-american neighborhoodetail:
+* redlining; CRBC and CB did not provide equal service to african-american neighborhood
+detail:
 * settled, the two invest in minor neighborhoods. violation of FHA, ECOA
+
+
+name: US vs. Community State Bank (E.D. Mich.)
+date: 1-15-2013
+why:
+* CSB redlined african-american census tracts in the city of saginaw, flint, michigan
+* CSB had no loan offices in minority neighborhoods
+detail:
+* Resolved, CSB pay compensation
+
+
+name: US vs. Compass Bank (N.D. Ala.)
+date: 2-21-2007
+why:
+* on car loans, CB charged higher interest to non-spousal co-applicants than spouses.
+detail:
+* resolved, CB pay compensation
+
+
+name: US vs. Countrywide Financial Corporation (C.D. Cal.)
+date: entered consent order on 12-21-2011
+why:
+* CFC priced retail home loans and wholesale home loans higher for african-americans and hispanics
+* CFC gave subprime loans to african-americans and hispanics and prime loans to whites of similar credit qualification
+detail:
+* $355million settlement, violation of FHA, ECOA
 
 
 
