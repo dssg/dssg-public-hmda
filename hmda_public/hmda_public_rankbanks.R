@@ -2,7 +2,7 @@
 LINES_TO_READ = 20000 # lines to read
 MIN_LOANS = 25 # minimum loans originated to evaluate a bank
 MIN_LOANS_RACE = 5 # minimum loans originated to minorities and non-minorities to evaluate a bank
-setwd("~/Downloads/hmda/")
+setwd("~/Projects/cfpb")
 
 headers = c("year", "repid", "agencycode", "loantype", "propertytype",
 	"loanpurpose", "occupancy", "loanamount", "preapproval", "action", "msa",
@@ -27,7 +27,7 @@ classes = c('factor', 'factor', 'factor', 'factor','factor',
 ## numeric variables are: loanamount, appincome, ratespread, and 
 ## the census tract aggregates
 
-data = read.csv("2011HMDALAR - National.csv", header = FALSE, nrows = LINES_TO_READ, col.names = headers, colClasses=classes)
+data = read.csv("data/2011HMDALAR - National.csv", header = FALSE, nrows = LINES_TO_READ, col.names = headers, colClasses=classes)
 data$bankid = factor(data$repid:data$agencycode) ## fix the occasional nonunique repid
 
 data_sub = subset(data, appethnicity!=3 & appethnicity !=4 & apprace1!=6 & apprace1!=7) ##ignore unreported races

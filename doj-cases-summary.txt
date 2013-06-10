@@ -74,3 +74,45 @@ why:
 detail:
 * resolved, BSB expands service, lowers rates
 
+
+name: US vs. Capital One, N.A. (E.D. Va.)
+date: consent order entered 12-21-2012
+why: 
+* cap-one violated SCRA (servicemembers Civil Relief Act) with wrongful foreclosures, improper repossessions of cars, denial of 6 percent interest rate that SCRA guarantees to servicemembers on loans
+details:
+* resolved, cap-one gives comprehensive compensation
+
+
+name: US vs. C&F Mortgage Corporation (E.D. Va.)
+date: 9-30-2011
+why:
+* C&F charged higher interest rates (overage) and gave lesser discounts (underage) on mortgage loans made to african-americans and hispanics. 
+detail:
+* resolved, C&F pay compensation
+
+
+name: US vs. Centier Bank (N.D. Ind.)
+date: 9-13-2006
+why:
+* centier avoided lending to many minority neighborhoods in gary, indiana. 
+detail:
+* resolved, centier pay massive compensation, violation of FHA, ECOA
+
+
+name: US vs. Chevy Chase Bank (D.D.C.)
+date: 
+why:
+* CCB refused to market loans to predominantly african-american neighborhoods.
+detail:
+* resolved, CCB pay compensation
+
+
+name: US vs. Citizens Republic Bancorp, Inc. and Citizens Bank (E.D. Mich.)
+date: 5-5-2011
+why:
+* redlining; CRBC and CB did not provide equal service to african-american neighborhoodetail:
+* settled, the two invest in minor neighborhoods. violation of FHA, ECOA
+
+
+
+
