@@ -1,0 +1,76 @@
+#------#
+# NOTE:
+#  - "date" is the case filing date unless otherwise specified
+#  - names abbreviated in the description
+#  - capitalizations often omitted for typing convenience
+#
+
+
+name: Hargraves vs. Capital City Mortgage Corp. (D.D.C.)
+date: 1-29-1998
+why: 
+* CCMC gave to african-americans loans that they cannot possibly repay
+note:
+* lenders who lend a lot to minority neighborhoods can still discrminate
+detail:
+* known as "reverse redlining", violates FHA, ECOA
+
+
+name: Gomez vs. Quicken Loans (C.D. Cal)
+date: state of interest issued 4-1-2013
+why:
+* QL required borrowers with disabilities to provide a doctor's statement.
+note:
+* few details from the doj website
+
+
+name: US vs. AIG Federal Saving Bank and Wilmington Finance Inc. (D. Del.)
+date: 3-4-2010
+why:
+* FSB, WFI, charged higher feeds on thousands of wholesale loans to african-americans nationwide from 07-2003 to 05-2006.
+* FSB, WFI did not monitor mortgage brokers who charged higher broker fees
+detail:
+* Case settled for $6.1million. violation of FHA, ECOA
+
+
+name: US vs. Albank (N.D.N.Y.)
+date: resolved on 8-13-1997
+why:
+* Albank refused to take loan applications from minority neighborhoods. 
+detail:
+* resolved where albank must provide $55million in low-rate loans to the excluded area
+
+
+name: US vs. Associates National Bank (D. Del.)
+date: 3-29-1999
+why:
+* ANB of Delaware used stricter approval system and offered different promotions to hispanics who applied for credit cards using the Spanish Language form. 
+note:
+* first prosecuted case of discrimination involving credit cards
+detail:
+* resolved where ANB paid $1.5million to adversely affected hispanics from 02-1996 to 04-1997
+
+
+name: US vs. Bank of America N.A. (W.D.N.C.)
+date: 9-13-2012
+why:
+* BoA N.A. required loan applicants receiving SSDI (Social Security Disability Insurance) to provide a doctor's statement. 
+detail:
+* resolved, BoA N.A. pays compensation, conducts employee training
+
+
+name: US vs. Bank United d/b/a/ Commonwealth United Mortgage (W.D.N.Y. 1999)
+date: 1999
+why:
+* BU wanted information about the nature and severity of an applicant's disability
+detail:
+* resolved, BU pay compensation, conduct employee training
+
+
+name: US vs. Blackpipe State Bank (D. S.D.)
+date: 
+why:
+* BSB charged higher interest to native-americans and refused to make loans when collateral is in a reservation.
+detail:
+* resolved, BSB expands service, lowers rates
+
