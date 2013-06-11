@@ -1,0 +1,145 @@
+#------#
+# NOTE:
+#  - "date" is the case filing date unless otherwise specified
+#  - names abbreviated in the description
+#  - capitalizations often omitted for typing convenience
+#
+
+
+name: Hargraves vs. Capital City Mortgage Corp. (D.D.C.)
+date: 1-29-1998
+why: 
+* CCMC gave to african-americans loans that they cannot possibly repay
+note:
+* lenders who lend a lot to minority neighborhoods can still discrminate
+detail:
+* known as "reverse redlining", violates FHA, ECOA
+
+
+name: Gomez vs. Quicken Loans (C.D. Cal)
+date: state of interest issued 4-1-2013
+why:
+* QL required borrowers with disabilities to provide a doctor's statement.
+note:
+* few details from the doj website
+
+
+name: US vs. AIG Federal Saving Bank and Wilmington Finance Inc. (D. Del.)
+date: 3-4-2010
+why:
+* FSB, WFI, charged higher feeds on thousands of wholesale loans to african-americans nationwide from 07-2003 to 05-2006.
+* FSB, WFI did not monitor mortgage brokers who charged higher broker fees
+detail:
+* Case settled for $6.1million. violation of FHA, ECOA
+
+
+name: US vs. Albank (N.D.N.Y.)
+date: resolved on 8-13-1997
+why:
+* Albank refused to take loan applications from minority neighborhoods. 
+detail:
+* resolved where albank must provide $55million in low-rate loans to the excluded area
+
+
+name: US vs. Associates National Bank (D. Del.)
+date: 3-29-1999
+why:
+* ANB of Delaware used stricter approval system and offered different promotions to hispanics who applied for credit cards using the Spanish Language form. 
+note:
+* first prosecuted case of discrimination involving credit cards
+detail:
+* resolved where ANB paid $1.5million to adversely affected hispanics from 02-1996 to 04-1997
+
+
+name: US vs. Bank of America N.A. (W.D.N.C.)
+date: 9-13-2012
+why:
+* BoA N.A. required loan applicants receiving SSDI (Social Security Disability Insurance) to provide a doctor's statement. 
+detail:
+* resolved, BoA N.A. pays compensation, conducts employee training
+
+
+name: US vs. Bank United d/b/a/ Commonwealth United Mortgage (W.D.N.Y. 1999)
+date: 1999
+why:
+* BU wanted information about the nature and severity of an applicant's disability
+detail:
+* resolved, BU pay compensation, conduct employee training
+
+
+name: US vs. Blackpipe State Bank (D. S.D.)
+date: 
+why:
+* BSB charged higher interest to native-americans and refused to make loans when collateral is in a reservation.
+detail:
+* resolved, BSB expands service, lowers rates
+
+
+name: US vs. Capital One, N.A. (E.D. Va.)
+date: consent order entered 12-21-2012
+why: 
+* cap-one violated SCRA (servicemembers Civil Relief Act) with wrongful foreclosures, improper repossessions of cars, denial of 6 percent interest rate that SCRA guarantees to servicemembers on loans
+details:
+* resolved, cap-one gives comprehensive compensation
+
+
+name: US vs. C&F Mortgage Corporation (E.D. Va.)
+date: 9-30-2011
+why:
+* C&F charged higher interest rates (overage) and gave lesser discounts (underage) on mortgage loans made to african-americans and hispanics. 
+detail:
+* resolved, C&F pay compensation
+
+
+name: US vs. Centier Bank (N.D. Ind.)
+date: 9-13-2006
+why:
+* centier avoided lending to many minority neighborhoods in gary, indiana. 
+detail:
+* resolved, centier pay massive compensation, violation of FHA, ECOA
+
+
+name: US vs. Chevy Chase Bank (D.D.C.)
+date: 
+why:
+* CCB refused to market loans to predominantly african-american neighborhoods.
+detail:
+* resolved, CCB pay compensation
+
+
+name: US vs. Citizens Republic Bancorp, Inc. and Citizens Bank (E.D. Mich.)
+date: 5-5-2011
+why:
+* redlining; CRBC and CB did not provide equal service to african-american neighborhood
+detail:
+* settled, the two invest in minor neighborhoods. violation of FHA, ECOA
+
+
+name: US vs. Community State Bank (E.D. Mich.)
+date: 1-15-2013
+why:
+* CSB redlined african-american census tracts in the city of saginaw, flint, michigan
+* CSB had no loan offices in minority neighborhoods
+detail:
+* Resolved, CSB pay compensation
+
+
+name: US vs. Compass Bank (N.D. Ala.)
+date: 2-21-2007
+why:
+* on car loans, CB charged higher interest to non-spousal co-applicants than spouses.
+detail:
+* resolved, CB pay compensation
+
+
+name: US vs. Countrywide Financial Corporation (C.D. Cal.)
+date: entered consent order on 12-21-2011
+why:
+* CFC priced retail home loans and wholesale home loans higher for african-americans and hispanics
+* CFC gave subprime loans to african-americans and hispanics and prime loans to whites of similar credit qualification
+detail:
+* $355million settlement, violation of FHA, ECOA
+
+
+
+
